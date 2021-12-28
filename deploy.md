@@ -182,3 +182,4 @@ docker build -f Dockerfile -t docsify/demo .
 ```sh
 docker run -itp 3000:3000 --name=docsify -v $(pwd):/docs docsify/demo
 ```
+测试
